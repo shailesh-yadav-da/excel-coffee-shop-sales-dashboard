@@ -8,10 +8,10 @@ To analyze sales performance and understand customer purchasing patterns
 to support data-driven decision making.
 
 ## 🛠 Tools Used:
-• Microsoft Excel
-• Pivot Tables
-• Advanced Excel Functions
-• Charts & Interactive Dashboard
+- Microsoft Excel
+- Pivot Tables
+- Advanced Excel Functions
+- Charts & Interactive Dashboard
 
 ## 📊 Key Insights:
 • Total sales and revenue trends
