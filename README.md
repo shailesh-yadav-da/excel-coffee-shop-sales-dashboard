@@ -3,7 +3,7 @@
 I’m excited to share my latest Excel Dashboard project where I analyzed
 Coffee Shop Sales data to uncover meaningful business insights.
 
-##🔍 Project Objective:
+## 🔍 Project Objective:
 To analyze sales performance and understand customer purchasing patterns
 to support data-driven decision making.
 
